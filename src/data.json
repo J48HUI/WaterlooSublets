@@ -1,0 +1,82 @@
+{
+    "Properties": [
+        {
+            "title": "Newest Property on Site",
+            "content": [
+                "One private bedroom/bathroom available for rent at Preston house",
+                "Available May 2023 - August 2023 or lease takeover till August 2025.",
+                "Room is fully furnished. Available for girls only.",
+                "$850 / month",
+                "Preston House, 315 King St N, Waterloo, ON N2J 2Z1"
+            ],
+            "images": [
+                "/images/Newest Property on Site/0.png",
+                "/images/Newest Property on Site/1.png"
+            ],
+            "map": "/images/Newest Property on Site/Map.png"
+        },
+        {
+            "title": "Most Spacious Property on Site",
+            "content": [
+                "Looking for 1-2 female student to sublet in an all-female house",
+                "Available from January 2023 to Aug 2023 (8 month sublet). ",
+                "3 Bed 2 Bath – House",
+                "Fully furnished bedroom with bed, desk, chair and fireplace",
+                "Spacious kitchen and living area with dining table, couch, appliances and a mini fridge",
+                "Laundry and parking available",
+                "Internet, hydro and utilities include",
+                "Bus stop 29, 12 and 202 located 2 minutes away",
+                "330 Westcourt Pl, Waterloo, ON N2L 2R7",
+                "Preston House, 315 King St N, Waterloo, ON N2J 2Z1",
+                "Message Noor Parray on Facebook for pricing"
+            ],
+            "images": [
+                "/images/Cleanest Property on Site/0.png",
+                "/images/Cleanest Property on Site/1.png",
+                "/images/Cleanest Property on Site/2.png"
+            ],
+            "map": "/images/Cleanest Property on Site/Map.png"
+        },
+        {
+            "title": "Property With Home Theatre System",
+            "content": [
+                "1 bedroom in townhouse for lease ",
+                "Available November 2022",
+                "Shared bathroom with another roommate",
+                "5 Minute drive to Conestoga Mall",
+                "1 parking spot available",
+                "Fully Furnished with a home theater in the basement",
+                "$750 a month, everything included",
+                "Must be tidy, no pets preferred",
+                "513 Mariner Dr, Waterloo, ON N2K 3Y7, Canada"
+            ],
+            "images": [
+                "/images/Most Entertaining Property on Site/0.png",
+                "/images/Most Entertaining Property on Site/1.png",
+                "/images/Most Entertaining Property on Site/2.png",
+                "/images/Most Entertaining Property on Site/3.png",
+                "/images/Most Entertaining Property on Site/4.png"
+            ],
+            "map": "/images/Most Entertaining Property on Site/Map.png"
+        },
+        {
+            "title": "Closest Property to School",
+            "content": [
+                "Renting out 1 bedroom at Hespeler House",
+                "Available from May 2023 to August 2023.",
+                "Fully furnished room with en-suite bathroom.",
+                "Internet & Hydro included.",
+                "Fully furnished shared kitchen & living room.",
+                "Gym facilities and large laundry room available for use.",
+                "$980/month"
+            ],
+            "images": [
+                "/images/Closest Property to School/0.png",
+                "/images/Closest Property to School/1.png",
+                "/images/Closest Property to School/2.png",
+                "/images/Closest Property to School/3.png"
+            ],
+            "map": "/images/Closest Property to School/Map.png"
+        }
+    ]
+}
